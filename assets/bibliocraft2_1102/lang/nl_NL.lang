@@ -14,10 +14,10 @@ jds.tileentitybookcase=Boekenkast
 item.creativebookcase.randombooks=Een boekenkast gevuld met random boeken
 item.creativebookcase.mode=Alleen beschikbaar in Creative Mode.
 
-darkoakBookcase.name=Dark Oak Bookcase
+darkoakBookcase.name=Donker eikenhouten boekenkast
 framedBookcase.name=Framed Bookcase
-oakBookcaseCreative.name=Oak Creative Bookcase
-spruceBookcaseCreative.name=Spruce Creative Bookcase
+oakBookcaseCreative.name=Eikenhouten creative boekenkast
+spruceBookcaseCreative.name=Spruce
 birchBookcaseCreative.name=Birch Creative Bookcase
 jungleBookcaseCreative.name=Jungle Creative Bookcase
 acaciaBookcaseCreative.name=Acacia Creative Bookcase
